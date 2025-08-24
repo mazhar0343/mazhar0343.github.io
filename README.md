@@ -13,7 +13,7 @@
 
 ### Skills: <br/>
 - Languages: Python, C++, C, Java, JavaScript, HTML, CSS <br/>
-- Operating Systems: Windows, MacOS, Ubuntu <br/>
+- Operating Systems: Windows, MacOS <br/>
 - Other Tools: LATEX, Markdown, Microsoft Office Suite, Google Workspace <br/>
 
 ### Education: <br/>
